@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(255, 205, 232);
+}
+
+h1 {
+    color: rgb(6, 61, 18);
+   font-style: oblique;
+   font-size: 400%;
+   text-align: center;
+}
+h2 {
+    font-style: italic;
+    font-size: 25px;
+}
+h4 {
+    font-size: 20px;
+}
+div{
+    background-color: white ; 
+    border-style:solid; 
+    border-color: rgb(137, 117, 218); 
+    border-radius: 500px;
+    border-width: 30px, 30px,;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 20px;
+}
+th, td {
+    padding: 8px;
+     text-align: left;
+     border-bottom: 1px solid black;
+}
+
+tr:nth-child(even){
+    background-color: rgb(152, 254, 234);
+}
+
+.every-third li:nth-child(odd) {
+    background-color: rgb(110, 197, 255);
+    font-size: 25px, 25px;
+}
+
+tr:hover {
+   background-color:gray ; 
+}
+
+p {
+    font-size: larger;
+    font-style: unset;
+    background-color: aliceblue;
+}
+
+form {
+    font-size: 20px;
+}
+
+img {
+    float: right;
+    width: 300px;
+}
+
+.every-even {
+    float: left;
+    width: 650px;
+}
+
+#form {
+    background-color: white ; 
+    border-style:solid; 
+    border-color: rgb(137, 117, 218); 
+    border-radius: 30px;
+    border-width: 3px, 3px,;
+    text-align: center;
+    font-size: 25px;
+}
+
+.bros {
+    width: 1000px;
+    float: left;
+}
+
+.one {
+    float: left;
+    width: 500px;
+}
+
+.two {
+    width: 450px;
+}
