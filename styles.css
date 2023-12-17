@@ -51,15 +51,22 @@ tr:hover {
     font-size: 25px, 25px;
 }
 
+
+#form {
+    background-color: white ; 
+    border-style:solid; 
+    border-color: rgb(137, 117, 218); 
+    border-radius: 30px;
+    border-width: 3px, 3px,;
+    text-align: center;
+}
+
 p {
     font-size: larger;
     font-style: unset;
     background-color: aliceblue;
 }
 
-form {
-    font-size: 20px;
-}
 
 img {
     float: right;
@@ -71,15 +78,6 @@ img {
     width: 650px;
 }
 
-#form {
-    background-color: white ; 
-    border-style:solid; 
-    border-color: rgb(137, 117, 218); 
-    border-radius: 30px;
-    border-width: 3px, 3px,;
-    text-align: center;
-    font-size: 25px;
-}
 
 .bros {
     width: 1000px;
